@@ -26,7 +26,7 @@ h3 {
     text-align: center;
 }
 
-myLinks {
+.links {
     color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
@@ -34,7 +34,7 @@ myLinks {
     text-align: center;
 }
 
-myCopyright {
+.copyright {
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;

@@ -1,29 +1,25 @@
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    text-align: center;
 }
 
 h2 {
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
-    text-align: center;
 }
 
 h3 {
     color: gray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 21px;
-    text-align: center;
 }
 
 .center_video {
@@ -41,20 +37,17 @@ h3 {
 }
 
 .center_logo {
-    text-align: center;
+
 }
 
 .links {
     color: aquamarine;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 16px;
-    text-align: center;
 }
 
 .copyright {
     color: gray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 16px;
     text-align: right;

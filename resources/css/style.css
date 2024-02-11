@@ -4,6 +4,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Headings */
+
 .header-1 {
     color: white;
     font-weight: normal;
@@ -22,23 +24,7 @@ body {
     font-size: 21px;
 }
 
-.center_video {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.center_image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.center_logo {
-
-}
+/* Links */
 
 .links {
     color: aquamarine;
@@ -46,6 +32,8 @@ body {
     font-size: 16px;
     text-align: center;
 }
+
+/* Others */
 
 .copyright {
     color: gray;

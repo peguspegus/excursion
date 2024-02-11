@@ -33,6 +33,10 @@ h3 {
     width: 50%;
 }
 
+.center_logo {
+    text-align: center;
+}
+
 .link {
     color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

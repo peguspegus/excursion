@@ -26,7 +26,14 @@ h3 {
     text-align: center;
 }
 
-.links {
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.link {
     color: aquamarine;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
